@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Packaged extension artifacts
+*.zip
+*.crx
